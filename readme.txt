@@ -1,4 +1,5 @@
-=== Canva - Design beautiful blog graphics ===
+
+.=== Canva - Design beautiful blog graphics ===
 Contributors: canva, ashdurham, getafixx, justin king
 Donate link: http://about.canva.com/canva-button/
 License: GPLv3
